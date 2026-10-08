@@ -17,6 +17,15 @@ I build production AI systems on top of reliable backend engineering: RAG pipeli
 - Event-driven **Order-to-Cash** platform serving 1,000 restaurant locations (SNS, Lambda, RDS, Terraform CI/CD)
 - At AWS: build-time config-gap detection across isolated regions, REST APIs, SNS/SQS pipelines, on-call ownership
 
+## Experience
+
+| Role | Company | Dates |
+|---|---|---|
+| **Gen AI Software Engineer** | Mythics · Atlanta, GA | Mar 2024 – Present |
+| **Software Development Engineer** | Amazon Web Services · Atlanta, GA | Sep 2022 – Mar 2024 |
+| **Systems Engineer** | Infosys Limited USA · Remote | Jan 2021 – Sep 2022 |
+| **Software Engineer** | Terminal Trend · Ahmedabad, GJ | Jan 2019 – Dec 2019 |
+
 ## Featured projects
 
 | Project | What it is | Links |
@@ -29,7 +38,12 @@ More: [reviewIQ](https://review-iq-freeplan.vercel.app/) · [websiteBuilder](htt
 
 ## Stack
 
-`Java` `Python` `Spring Boot` `RAG` `LLM Agents` `MCP` `LangChain` `LangGraph` `AWS Bedrock` `Lambda` `SNS/SQS` `EKS` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Amazon RDS` `Kafka` `Vector DBs` `React`
+`Java` `Python` `JavaScript` `React` `Spring Boot` `Flask` `REST APIs` `Microservices` `RAG` `LLM Agents` `MCP` `LangChain` `LangGraph` `Vector DBs` `Embeddings` `Semantic Search` `NL-to-SQL` `Tool Calling` `Claude Code` `Codex` `AWS Bedrock` `Lambda` `SNS/SQS` `EC2` `ECS` `EKS` `S3` `CloudFormation` `Step Functions` `SageMaker` `Textract` `OpenSearch` `Neptune` `GCP Pub/Sub` `Docker` `Kubernetes` `Terraform` `Jenkins` `GitHub Actions` `Amazon RDS` `MySQL` `BigQuery` `Kafka` `Advanced SQL` `CloudWatch` `Splunk` `Power BI` `Tableau` `JUnit` `Selenium`
+
+## Education
+
+- **M.S. Computer Science**, University of Texas at Arlington · Dec 2021
+- **B.E. Computer Engineering**, Gujarat Technological University · May 2018
 
 ## Contact
 
